@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/user-event": "^7.1.2",
+    "styled-components": "^4.4.1",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "use-react-router": "^1.0.7",
+    "react-icons": "^3.7.0"
+  }
+}
